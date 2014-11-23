@@ -1,0 +1,17 @@
+{
+  "name": "homeControl",
+  "version": "0.0.0",
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "angular": "1.2.x",
+    "angular-animate": "1.2.x",
+    "angular-cookies": "1.2.x",
+    "angular-touch": "1.2.x",
+    "angular-sanitize": "1.2.x",
+    "angular-ui-router": "0.2.x",
+    "angular-local-storage": "~0.0.7",
+    "angular-socket-io": "~0.6.0",
+    "socket.io-client": "~1.1.0",
+    "moment": "~2.8.3"
+  }
+}
